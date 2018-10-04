@@ -26,3 +26,11 @@
   color: white;
   font-size: 20px;
 }
+
+.ui.large.image.item {
+  padding-top: 120px;
+}
+
+.para.text {
+  padding-top: 120px;
+}
